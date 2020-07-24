@@ -8,3 +8,5 @@ The technical objective of the project is to predict a car's market price based 
 The dataset for this project was created and uploaded by Jeffrey C. Schlimmer at the UCI Machine Learning Repository. The dataset can be accessed from this [page](https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data) and detailed description is available [here](https://archive.ics.uci.edu/ml/datasets/automobile). 
 
 The original dataset is also attached with this repository.
+
+Since GitHub does not render the plotly plots, that I originally built this project with here is the NBViewer link to access the same [With Plotly Plots]( https://nbviewer.jupyter.org/github/simplyrucha/KNNModel/blob/master/GP_PredictingCarPrices.ipynb)
