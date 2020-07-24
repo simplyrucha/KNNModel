@@ -6,3 +6,5 @@ This project is a learning instrument to understand the worflow of *K-Nearest Ne
 The technical objective of the project is to predict a car's market price based on it's attributes(features) employing the KNN workflow. 
 
 The dataset for this project was created and uploaded by Jeffrey C. Schlimmer at the UCI Machine Learning Repository. The dataset can be accessed from this [page](https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data) and detailed description is available [here](https://archive.ics.uci.edu/ml/datasets/automobile). 
+
+The original dataset is also attached with this repository.
