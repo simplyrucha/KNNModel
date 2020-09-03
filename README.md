@@ -9,11 +9,6 @@ The dataset for this project was created and uploaded by Jeffrey C. Schlimmer at
 
 The original dataset "imports-85.data" is also attached with this repository.
 
-Since GitHub does not render the plotly plots, that I originally built this project with here is the NBViewer link to access the same. 
-
-<a href="https://nbviewer.jupyter.org/github/simplyrucha/KNNModel/blob/master/GP_PredictingCarPrices.ipynb" target="_blank">Project with Plots</a>
-<b><i>(Please use Ctrl+Left Click to open in new tab, or it will open in current tab itself!)</i></b>
-
 <b>Data Dictionary:</b>
 
 | Attribute	|Attribute Range|| Attribute |Attribute Range|
